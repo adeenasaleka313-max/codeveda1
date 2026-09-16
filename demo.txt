@@ -1,0 +1,4 @@
+Hello world
+I am learning Python
+Python is a simple programming language.
+Python is easy to learn.
